@@ -153,29 +153,12 @@ a {
         background-image: url("../images/CalfTracker/CalfTracker-cover.png");
     }
 
-    .planit {
-        background-image: url("../images/PlanIt/PlanIt-cover.png");
+    .dropbox-clone {
+        background-image: url("../images/DropboxClone/DropboxClone-cover.png");
     }
-
-    .wacm {
-        background-image: url("../images/WACM/WACM-cover.png");
-    }
-
-    .draw3D {
-        background-image: url("../images/Draw3D/Draw3D-cover.png");
-    }
-
-    .photo-booth {
-        background-image: url("../images/PhotoBooth/PhotoBooth-cover.jpg");
-        background-position: top;
-    }
-
-    .intuit {
-        background-image: url("../images/Intuit/Intuit-Cover.png");
-    }
-
-    .microsoft {
-        background-image: url("../images/Microsoft/Microsoft-Cover.png");
+    
+    .sound-engineer {
+        background-image: url("../images/SoundEngineer/SoundEngineer-cover.png");
     }
 
 .project-label {
